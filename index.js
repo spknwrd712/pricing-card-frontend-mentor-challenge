@@ -1,3 +1,3 @@
 function alertUser() {
- alert('Hey! You just clicked the sign up botton')
+  alert('Hey, You just clicked the Sign up botton!')
 }
